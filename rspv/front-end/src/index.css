@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     background-color: rgb(104, 200, 218);
     color: blueviolet;
-    align-items: center;
+    /* align-items: center; */
     padding: 0px;
     font-size: 30px;
     margin: 35px 20px 10px 20px;
