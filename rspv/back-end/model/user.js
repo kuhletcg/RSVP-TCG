@@ -6,11 +6,5 @@ const userSchema = new mongoose.Schema({
     Email: {type: String, required: true},
     Dietary: {type: String, required: true },
 })
-// class ProductCategoryRow extends React.Component {
-//     render() {
-//return (
-//     <tr>
-//       <td>{name}</td>
-//       <td>{Surname}</td>
-//     </tr>
+
 module.exports = mongoose.model ("User", userSchema);
