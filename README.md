@@ -2,7 +2,7 @@
  
 ## Introduction
  
- This is where you will find the confirmation of the requirements that we were also to do to this activity.
+ This is where you will find the confirmation of the requirements that we were asked to do to this activity.
 
 ## Instructions
 
