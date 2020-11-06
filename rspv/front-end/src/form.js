@@ -13,7 +13,7 @@ export default function Form(params) {
 
     
      return(
-        <div class = "row">
+         <div class = "row">
             <div>
             Name:
             <input onChange={handleChange} name='name' type="text" value={information.name} />
